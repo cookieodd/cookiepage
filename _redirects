@@ -1,5 +1,6 @@
 # 插件下载短链接
 /awe            /awe.deb
+/awepb          /awepb.deb
 /rednote        /rednote.deb
 /lowlikes       /lowlikes.deb
 /gif            /douyin-gif.deb
@@ -11,6 +12,7 @@
 
 # GitHub 项目页面
 /awe-repo       https://github.com/cookieodd/AWECommentAudioTweak
+/awepb-repo     https://github.com/cookieodd/AWEProgressBar
 /rednote-repo   https://github.com/cookieodd/RednoteTools
 /lowlikes-repo  https://github.com/cookieodd/AWELowLikesFilter
 /gif-repo       https://github.com/cookieodd/DouyinGifDownload
