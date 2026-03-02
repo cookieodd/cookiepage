@@ -1,0 +1,16 @@
+# 插件下载短链接
+/awe            /awe.deb
+/rednote        /rednote.deb
+/lowlikes       /lowlikes.deb
+/gif            /douyin-gif.deb
+
+# 社交媒体短链接
+/tg             https://t.me/cookieodddev
+/gh             https://github.com/cookieodd
+/repo           https://repo.cookieodd.com
+
+# GitHub 项目页面
+/awe-repo       https://github.com/cookieodd/AWECommentAudioTweak
+/rednote-repo   https://github.com/cookieodd/RednoteTools
+/lowlikes-repo  https://github.com/cookieodd/AWELowLikesFilter
+/gif-repo       https://github.com/cookieodd/DouyinGifDownload
