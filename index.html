@@ -272,8 +272,20 @@
                 padding: 1rem;
             }
 
+            .social {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 0.75rem;
+                overflow-x: visible;
+            }
+
+            .social a {
+                justify-content: center;
+            }
+
             .sections-grid {
-                gap: 1rem;
+                grid-template-columns: 1fr;
+                gap: 2rem;
             }
 
             .header-top {
@@ -289,9 +301,15 @@
                 font-size: 2rem;
             }
 
+            .bio {
+                font-size: 0.9rem;
+                padding: 1rem;
+            }
+
             .project {
                 flex-direction: column;
                 align-items: flex-start;
+                padding: 1rem;
             }
 
             .project-links {
