@@ -1,4 +1,5 @@
 # 插件下载短链接
+/miyou          /miyou.deb
 /awe            /awe.deb
 /awepb          /awepb.deb
 /rednote        /rednote.deb
@@ -11,6 +12,7 @@
 /repo           https://repo.cookieodd.com
 
 # GitHub 项目页面
+/miyou-repo     https://github.com/cookieodd/MiYouStandalone
 /awe-repo       https://github.com/cookieodd/AWECommentAudioTweak
 /awepb-repo     https://github.com/cookieodd/AWEProgressBar
 /rednote-repo   https://github.com/cookieodd/RednoteTools
